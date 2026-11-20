@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Arrowfall: Stickman Archer Duel",
+  "description": "A cartoonish, physics-driven 2D stickman archery game with ragdoll physics, wind ballistics, destructible props, and multi-biome campaign levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
